@@ -11,14 +11,14 @@
   - WeatherApp: an application class used to manage app lifecycle if need.
 3. How to run local app: open project by Android Studio 4.0.1 or above, gradle version: gradle-6.1.1.
 4. Checklist items has done:
-  1. Kotlin is used.
-  2. MVVM architecture is used.
-  3. LiveData is used.
-  4. UI looks like in attachment.
-  5. Unit test is wrote for the most importance class: SearchWeatherViewModelTest.
-  6. Avoid decompile apk file, using proguard in release build. 
-  7. Exception handling.
-  8. Readme file inclued.
-  9. Configuaration change handling.
-  10. Retrofit data caching.
-  11. Views catching.
+  - Kotlin is used.
+  - MVVM architecture is used.
+  - LiveData is used.
+  - UI looks like in attachment.
+  - Unit test is wrote for the most importance class: SearchWeatherViewModelTest.
+  - Avoid decompile apk file, using proguard in release build. 
+  - Exception handling.
+  - Readme file inclued.
+  - Configuaration change handling.
+  - Retrofit data caching.
+  - Views catching.
