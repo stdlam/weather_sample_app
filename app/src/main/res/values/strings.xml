@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="search_hint">Search your city</string>
+    <string name="result_date">Date: %s</string>
+    <string name="result_avg_temp">Average temperature: %s°C</string>
+    <string name="result_pressure">Pressure: %d</string>
+    <string name="result_humidity">Humidity: %d</string>
+    <string name="result_description">Description: %s</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="loading_item">Data loading…</string>
+    <string name="data_not_found">Data not found</string>
+    <string name="something_wrong">Something went wrong</string>
+    <string name="no_service">Service not found</string>
+    <string name="no_internet">Please help check your internet and try again.</string>
+    <string name="invalid_input">Invalid city name</string>
+    <string name="timeout">Request timeout</string>
+</resources>
